@@ -1,0 +1,5 @@
+pandas
+matplotlib
+pillow
+fpdf2
+openpyxl
